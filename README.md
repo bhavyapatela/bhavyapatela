@@ -13,8 +13,6 @@ Final-year Computer Science student<br>Backend developer focused on Python & Fas
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhavyapatela&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapatela&layout=compact&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=noturbhavya&icon=0&color=0)](https://visitcount.itsvg.in)
 
