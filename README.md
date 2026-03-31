@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year Computer Science student<br>Passionate about data, AI-driven systems, and problem-solving<br>Currently working as a Data Analyst, focused on extracting meaningful insights from data and applying them to real world scenarios. I enjoy building practical projects, exploring intelligent systems, and continuously improving my technical skills
+Final-year Computer Science student<br>Passionate about data, AI-driven systems, and problem-solving<br>Currently working as a Data Analyst, focused on extracting meaningful insights from data and applying them to real world scenarios. I enjoy building practical projects, exploring intelligent systems, and continuously improving my technical skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyapatela/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bhxvya11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavyapatela100@gmail.com) 
