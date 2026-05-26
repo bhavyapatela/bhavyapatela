@@ -1,6 +1,6 @@
 # 💫 About Me:
 Data Analyst passionate about transforming raw data into meaningful insights and interactive dashboards.
-I enjoy working with data visualization, analytics, backend systems, and building tools that solve real-world problems.
+I enjoy working with data visualization, analytics, backend systems, and building tools that solve real-world problems.<br>
 Currently exploring AI-powered analytics, marketing performance tracking, and intelligent systems.
 
 ## 🌐 Socials:
