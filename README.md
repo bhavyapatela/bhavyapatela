@@ -1,7 +1,5 @@
 # About Me:
-Data Analyst passionate about transforming raw data into meaningful insights and interactive dashboards.
-I enjoy working with data visualization, analytics, backend systems, and building tools that solve real-world problems.<br>
-Currently exploring AI-powered analytics, marketing performance tracking, and intelligent systems.
+I'm a Software Engineer building scalable data-driven products and intelligent systems. I have experience building full-stack applications, REST APIs, and data-driven platforms using Python, FastAPI, Next.js, PostgreSQL, SQL, and Docker.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyapatela/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bhxvya11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavyapatela100@gmail.com) 
